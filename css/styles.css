@@ -938,4 +938,5 @@ a {
 
 .modal-link {
   text-decoration: underline;
+  color: var(--accent-color);
 }
